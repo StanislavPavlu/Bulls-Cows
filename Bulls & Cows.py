@@ -119,7 +119,7 @@ while number_guessed_str != number_generated_str:
         cow_cows = "cow"
     print(f"{number_bulls} {bull_bulls}, {number_cows} {cow_cows}\n{line_simple}")
     
-# # Time - end of the game:
+# Time - end of the game:
 end_print = time_for_print()
 print(f"End of the game: {end_print}\n{line_simple}")
 end_substract = time_for_substracting()
